@@ -124,7 +124,9 @@ Social Media:
  
 ## Focus: 
   Data modeling, warehouse design, transformations, analytics
-👉 View Repository
+  
+👉 View Project: [https://github.com/AnalystChidinma/Kartify](https://github.com/AnalystChidinma/sql_data_modelling_project)
+
 
 
 ## Fun Facts
