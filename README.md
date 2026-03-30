@@ -4,56 +4,123 @@
   Building scalable data pipelines, analytics-ready warehouses, and clean data models
 </p>
 
+
 ## 👩🏽‍💻 About Me
 
-I'm a **Data and Analytics Engineer** with a strong analytics background, focused on designing and building reliable, scalable, and well-documented data solutions.
-I enjoy working across the full data lifecycle, from data ingestion and transformation to data modeling and analytics, turning raw data into insights that support decision-making.
+I'm Chidinma Okeh, a Data & Analytical Engineer passionate about turning raw data into meaningful insights and building systems that make data reliable and useful.
+
+I enjoy working at the intersection of data analysis and data engineering. Designing pipelines, transforming data, and structuring it in ways that support real business decisions.
+
+I am particularly interested in helping organizations become data-driven by building clean, scalable, and well-structured data solutions.
+
+
+## Interests
+
+- 🌱 Building and improving data pipelines (ETL/ELT workflows)
+
+- 🚀 Exploring modern data tools and cloud platforms
+
+- 📊 Solving real-world business problems using data
+
+- 📈 Designing analytics-ready datasets and data models
+
+## 💬 Ask Me About
+
+- Data Engineering
+  
+- Analytics Engineering
+  
+- SQL & Data Modeling
+  
+- Data Analysis
+
+## 📫 How to reach me:
+
+Social Media:
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidinma-okeh)
 
 
 
----
+## 🛠️ Tech Stack
 
-##  Tech Stack 
-- **Languages:** SQL, Python, Bash
-- **Data Engineering:** ETL, ELT, Data Modeling (Star, Snowflake, OBT)
-- **Warehouses:** PostgreSQL, SQL Server, Snowflake
-- **Tools:** Git, dbt, Airflow
+💾 Databases
+<p> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
----
+☁️ Cloud Services
 
-
-
-
-##  Featured Projects
-🔹 **SQL Data Modeling and Analytical Project**  
-Designed a PostgreSQL data warehouse using star and snowflake schemas, implemented transformations, and built analytics-ready tables.
-**Tech:** SQL, PostgreSQL  
-**Focus:** Data modeling, transformations, analytics  
-👉 [View Repository](https://github.com/AnalystChidinma/sql_data_modelling_project)
-
-🔹 **Bash ETL Pipeline**  
-Created a Bash-only ETL pipeline to extract, transform, and load CSV data, demonstrating low-level pipeline logic and automation.
-**Tech:** Bash, Shell  
-**Focus:** ETL fundamentals, automation 
-👉 [View Repository](https://github.com/AnalystChidinma/bash_etl_pipeline)
-
-🔹 **Guardian OpenAI News Data Pipeline**  
-Built a Python-based data ingestion pipeline that collects articles from the Guardian Open Platform API, processes the data, and prepares it for analytics.
-**Tech:** Python, APIs  
-**Focus:** Data ingestion, transformation, automation  
-👉 [View Repository](https://github.com/AnalystChidinma/guardian_openai_news)
-
----
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/)
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%230078D6.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-fabric)
 
 
-## 📈 What I'm Working On
-- Cloud data engineering (Snowflake)
-- Production-ready ETL pipelines
-- Analytics engineering best practices
-- Improving documentation and data quality
+💻 IDEs/Editors
 
----
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## 🤝 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/chidinma-okeh/
-- blog: https://chidinmaokeh75.medium.com/
+
+📋 Languages
+
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+📊 Modern Data Stack
+
+[![Airbyte](https://img.shields.io/badge/-airbyte-purple?style=for-the-badge&logo=airbyte&logoColor=white)](https://airbyte.com/)
+[![dbt](https://img.shields.io/badge/-dbt-orange?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![Databricks](https://img.shields.io/badge/-databricks-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![BigQuery](https://img.shields.io/badge/-BigQuery-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-green.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/synapse-analytics/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+
+# 🚀 Featured Project 
+
+## 1. Kartify ELT Pipeline
+
+  End-to-end data pipeline simulating a real-world analytics workflow
+
+## 🔧 Tech Stack
+
+  Python • PostgreSQL • dbt • SQL
+
+## 📊 What I Built
+
+- Extracted and cleaned raw data using Python (Pandas)
+
+- Loaded structured datasets into PostgreSQL
+
+- Designed modular dbt models:
+
+    - staging
+    - intermediate
+    - mart
+      
+- Built a customer revenue model for business insights
+  
+- Implemented data quality tests (unique, not null, relationships)
+  
+## 🎯 Outcome
+
+- Transformed raw data into analytics-ready tables
+  
+- Created a scalable and maintainable pipeline structure
+  
+- Enabled reliable reporting on customer revenue
+
+👉 View Project: [https://github.com/AnalystChidinma/Kartify](https://github.com/AnalystChidinma/kartify-elt-pipeline-dbt-snowflake)
+
+
+
+## Fun Facts
+
+- 📖 I love research mostly relating to technology and data. 
+
+- 🧑‍🏫 I love my Family
+
+- 👩‍👧‍👧 My mom mean the world to me.
+
+
