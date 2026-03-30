@@ -114,6 +114,18 @@ Social Media:
 👉 View Project: [https://github.com/AnalystChidinma/Kartify](https://github.com/AnalystChidinma/kartify-elt-pipeline-dbt-snowflake)
 
 
+## 2. SQL Data Modeling & Analytics Project
+
+  Designed a PostgreSQL-based data warehouse using both star and snowflake schemas to support analytical reporting. Built structured transformations and developed              analytics- ready fact and dimension tables.
+  
+ ## 🔧 Tech Stack
+ 
+ SQL, PostgreSQL
+ 
+## Focus: 
+  Data modeling, warehouse design, transformations, analytics
+👉 View Repository
+
 
 ## Fun Facts
 
